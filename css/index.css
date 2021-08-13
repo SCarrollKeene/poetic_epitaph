@@ -1,0 +1,41 @@
+.jumbotron {
+  background-color: purple;
+  color: aliceblue;
+}
+
+.carouselContainer {
+  margin: 35px auto;
+}
+
+.card {
+  margin: 0 auto;
+  margin: 25px;
+}
+
+.cardContainer .card .btn {
+  background-color: purple;
+  color: aliceblue;
+  border: 1px solid purple;
+}
+
+.cardContainer .card .btn:hover {
+  background-color: rgb(175, 0, 175);
+  color: aliceblue;
+}
+
+
+.signUp {
+  margin: 35px auto; /* center form and provide spacing*/
+  background-color: purple;
+  padding: 25px;
+  border-radius: 7px;
+}
+
+.signUp a {
+  color: aliceblue;
+}
+
+/* Utility */
+.center {
+  text-align: center;
+}
